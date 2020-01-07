@@ -1,5 +1,150 @@
 {
-	"data": [],
-	"date": 1578392769421,
+	"data": [
+		{
+			"name": "Azuay",
+			"uid": "575c3f3dc45052778a2619d23d0a891168b488d7",
+			"path": "575c3f3dc45052778a2619d23d0a891168b488d7/data.zstd",
+			"sha1": "8cb2fb4"
+		},
+		{
+			"name": "Galápagos",
+			"uid": "b89a507d1b5bd332574ade57986fcf8c59d9448a",
+			"path": "b89a507d1b5bd332574ade57986fcf8c59d9448a/data.zstd",
+			"sha1": "e360dc7"
+		},
+		{
+			"name": "Orellana",
+			"uid": "e0262f25bf907862de28e119504de809d7d4fb88",
+			"path": "e0262f25bf907862de28e119504de809d7d4fb88/data.zstd",
+			"sha1": "b84ee0f"
+		},
+		{
+			"name": "Bolívar",
+			"uid": "6943a0b6af06790cc81d0e1d421ff08ec2d31b40",
+			"path": "6943a0b6af06790cc81d0e1d421ff08ec2d31b40/data.zstd",
+			"sha1": "5ca0160"
+		},
+		{
+			"name": "Guayas",
+			"uid": "74512261f43f9f38fd70461713758aadf2e623c3",
+			"path": "74512261f43f9f38fd70461713758aadf2e623c3/data.zstd",
+			"sha1": "a5be39d"
+		},
+		{
+			"name": "Pastaza",
+			"uid": "996053966b2f4211556efaf854c09f037f3a64cf",
+			"path": "996053966b2f4211556efaf854c09f037f3a64cf/data.zstd",
+			"sha1": "f20a8c1"
+		},
+		{
+			"name": "Cañar",
+			"uid": "6991e4726b4f30242826b6082da5f35e45fc2415",
+			"path": "6991e4726b4f30242826b6082da5f35e45fc2415/data.zstd",
+			"sha1": "137fcb1"
+		},
+		{
+			"name": "Imbabura",
+			"uid": "e8b879ca85bc9e0313acc3a657f21636f38948b1",
+			"path": "e8b879ca85bc9e0313acc3a657f21636f38948b1/data.zstd",
+			"sha1": "64d7bbf"
+		},
+		{
+			"name": "Pichincha",
+			"uid": "ecb44b54b635bef41b4f211ccd862db762684912",
+			"path": "ecb44b54b635bef41b4f211ccd862db762684912/data.zstd",
+			"sha1": "6148d15"
+		},
+		{
+			"name": "Carchi",
+			"uid": "057c2935ba50018c53718d570ad79d449698dd6b",
+			"path": "057c2935ba50018c53718d570ad79d449698dd6b/data.zstd",
+			"sha1": "dd7cc37"
+		},
+		{
+			"name": "Loja",
+			"uid": "b9614d50dcc541df658fd82452d9c511243627a0",
+			"path": "b9614d50dcc541df658fd82452d9c511243627a0/data.zstd",
+			"sha1": "2f3517e"
+		},
+		{
+			"name": "Santa Elena",
+			"uid": "fc29bf395d3b29a34678ef284f8b8195b3559d06",
+			"path": "fc29bf395d3b29a34678ef284f8b8195b3559d06/data.zstd",
+			"sha1": "fd64ad6"
+		},
+		{
+			"name": "Cotopaxi",
+			"uid": "fc75efe7ec1a1f5ad2ca20362115d46d8bf02e84",
+			"path": "fc75efe7ec1a1f5ad2ca20362115d46d8bf02e84/data.zstd",
+			"sha1": "4e681bf"
+		},
+		{
+			"name": "Los Rios",
+			"uid": "79d9303ae30156c7f5c909b080ed48a4da30140a",
+			"path": "79d9303ae30156c7f5c909b080ed48a4da30140a/data.zstd",
+			"sha1": "870a8c1"
+		},
+		{
+			"name": "Santo Domingo",
+			"uid": "c371157e97ce4e613f816c26dd7ed158db353bb8",
+			"path": "c371157e97ce4e613f816c26dd7ed158db353bb8/data.zstd",
+			"sha1": "4dd0c20"
+		},
+		{
+			"name": "Chimborazo",
+			"uid": "86b8d5bca6cf8c4dab3f6a92dcd4d7ed4713052a",
+			"path": "86b8d5bca6cf8c4dab3f6a92dcd4d7ed4713052a/data.zstd",
+			"sha1": "5d91b29"
+		},
+		{
+			"name": "Manabí",
+			"uid": "9bc26a17a59447f444d0229d5902b0664b589955",
+			"path": "9bc26a17a59447f444d0229d5902b0664b589955/data.zstd",
+			"sha1": "d9b893e"
+		},
+		{
+			"name": "Sucumbíos",
+			"uid": "f47c307efec1e3f198ed2e5974e2ba72d93144c5",
+			"path": "f47c307efec1e3f198ed2e5974e2ba72d93144c5/data.zstd",
+			"sha1": "f9f6a0e"
+		},
+		{
+			"name": "https://www.sri.gob.ec/DocumentosAlfrescoPortlet/descargar/42b847ae-805e-4c56-8e9a-f6e134af0c96/EL_ORO.zip",
+			"uid": "c9e1936cfd4252b25a68b2a99d6237755c753e26",
+			"path": "c9e1936cfd4252b25a68b2a99d6237755c753e26/data.zstd",
+			"sha1": "3a67a96"
+		},
+		{
+			"name": "Morona Santiago",
+			"uid": "9a8d9b5650d7eb60b7a81dae5105c46085f47159",
+			"path": "9a8d9b5650d7eb60b7a81dae5105c46085f47159/data.zstd",
+			"sha1": "7a91ea7"
+		},
+		{
+			"name": "Tungurahua",
+			"uid": "0554ea8798855d84f92a526d18f4c0f5e7a59c02",
+			"path": "0554ea8798855d84f92a526d18f4c0f5e7a59c02/data.zstd",
+			"sha1": "3cdb6d1"
+		},
+		{
+			"name": "Esmaraldas",
+			"uid": "1440060119692dfd5492d9caefb95e1639719c3a",
+			"path": "1440060119692dfd5492d9caefb95e1639719c3a/data.zstd",
+			"sha1": "16768a3"
+		},
+		{
+			"name": "Napo",
+			"uid": "eb06ef78c84606d8fc83e95b21f621bc3b766e62",
+			"path": "eb06ef78c84606d8fc83e95b21f621bc3b766e62/data.zstd",
+			"sha1": "8b693ed"
+		},
+		{
+			"name": "Zamora Chinchipe",
+			"uid": "819d4299453444836328c43185802da732f9f539",
+			"path": "819d4299453444836328c43185802da732f9f539/data.zstd",
+			"sha1": "9570aa4"
+		}
+	],
+	"date": 1578392973249,
 	"lastUpdate": "10 de diciembre de 2019"
 }
